@@ -1,8 +1,0 @@
-2023-05-18T09:11:51+00:00 CRITICAL Out of memory (allocated 6291456) (tried to allocate 32768 bytes) در C:\Users\paytakht\Desktop\xamp\htdocs\digkiala\wordpress\wp-content\plugins\woocommerce\includes\rest-api\Controllers\Version2\class-wc-rest-report-sales-v2-controller.php روی خط 1
-
-2023-05-18T09:13:00+00:00 CRITICAL Out of memory (allocated 4194304) (tried to allocate 4194304 bytes) در C:\Users\paytakht\Desktop\xamp\htdocs\digkiala\wordpress\wp-content\themes\astra\inc\builder\type\base\dynamic-css\button\class-astra-button-component-dynamic-css.php روی خط 186
-
-2023-05-18T11:43:33+00:00 CRITICAL Out of memory (allocated 6291456) (tried to allocate 28672 bytes) در C:\Users\paytakht\Desktop\xamp\htdocs\digkiala\wordpress\wp-content\plugins\powerpack-elements\modules\advanced-menu\widgets\advanced-menu.php روی خط 988
-
-2023-05-18T11:43:35+00:00 CRITICAL Out of memory (allocated 106954752) (tried to allocate 20480 bytes) در C:\Users\paytakht\Desktop\xamp\htdocs\digkiala\wordpress\wp-content\plugins\powerpack-elements\modules\advanced-menu\widgets\advanced-menu.php روی خط 1680
-
