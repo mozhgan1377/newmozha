@@ -1,0 +1,4 @@
+2023-05-16T17:16:45+00:00 CRITICAL Out of memory (allocated 23068672) (tried to allocate 28672 bytes) در C:\Users\paytakht\Desktop\xamp\htdocs\digkiala\wordpress\wp-content\plugins\powerpack-elements\modules\registration-form\widgets\registration-form.php روی خط 1241
+
+2023-05-16T17:16:48+00:00 CRITICAL Out of memory (allocated 31457280) (tried to allocate 458752 bytes) در C:\Users\paytakht\Desktop\xamp\htdocs\digkiala\wordpress\wp-content\plugins\woocommerce\i18n\states.php روی خط 904
+

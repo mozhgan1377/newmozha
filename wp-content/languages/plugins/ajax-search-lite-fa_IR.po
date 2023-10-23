@@ -1,0 +1,1403 @@
+# Translation of Plugins - Ajax Search Lite - Stable (latest release) in Persian
+# This file is distributed under the same license as the Plugins - Ajax Search Lite - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-07-11 10:42:16+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/4.0.0-alpha.4\n"
+"Language: fa\n"
+"Project-Id-Version: Plugins - Ajax Search Lite - Stable (latest release)\n"
+
+#: backend/tabs/instance/general_options.php:7
+msgid "More Sources"
+msgstr "منابع بیشتر"
+
+#: backend/tabs/instance/advanced_options.php:6
+msgid "More"
+msgstr "بیشتر"
+
+#: backend/tabs/instance/general_options.php:2
+msgid "Post Type Search"
+msgstr "جستجوی نوع پست"
+
+#: backend/tabs/instance/frontend_options.php:3
+msgid "More Filters"
+msgstr "فیلترهای بیشتر"
+
+#: backend/tabs/instance/frontend/category_filters.php:2
+#: backend/tabs/instance/frontend_options.php:2
+msgid "Category Filters"
+msgstr "فیلترهای دسته بندی"
+
+#: backend/tabs/instance/advanced_options.php:5
+#: backend/tabs/instance/advanced_options.php:39
+msgid "Accessibility"
+msgstr "دسترسی"
+
+#: backend/tabs/instance/advanced_options.php:3
+msgid "Exclude Results"
+msgstr "حذف نتایج"
+
+#: backend/tabs/instance/advanced/advanced_premium_more.php:2
+msgid "Grouping results"
+msgstr "نتایج گروه بندی"
+
+#: backend/tabs/instance/advanced/accessibility.php:38
+msgid "Search magnifier button aria-label"
+msgstr "برچسب aria-label دکمه ذره بین را جستجو کنید"
+
+#: backend/tabs/instance/advanced/accessibility.php:30
+msgid "Search autocomplete input aria-label"
+msgstr "جستجوی تکمیل خودکار ورودی aria-label"
+
+#: backend/tabs/instance/advanced/accessibility.php:22
+msgid "Search input aria-label"
+msgstr "جستجوی ورودی aria-label"
+
+#: backend/tabs/instance/advanced/accessibility.php:14
+msgid "Search Settings form aria-label"
+msgstr "تنظیمات جستجو فرم aria-label"
+
+#: backend/tabs/instance/advanced/accessibility.php:6
+msgid "Search form aria-label"
+msgstr "فرم جستجو aria-label"
+
+#: backend/tabs/instance/advanced/accessibility.php:2
+msgid "Aria Labels"
+msgstr "لیبل های آریا"
+
+#: backend/settings/class/wd_cf_search_callback.class.php:80
+msgid "Missing data."
+msgstr "داده های از دست رفته"
+
+#: backend/settings/class/wd_cf_search_callback.class.php:77
+msgid "The nonce has expired or missing, please reload the page!"
+msgstr "هیچ منقضی شده یا گم شده است، لطفاً صفحه را دوباره بارگیری کنید!"
+
+#: backend/settings.php:136
+msgid "Frontend Search Filters"
+msgstr "فیلترهای جستجوی Frontend"
+
+#: backend/settings.php:107
+msgid "Frontend Filters"
+msgstr "فیلترهای جلویی"
+
+#: backend/tabs/instance/layout/results_layout.php:3
+msgid "Snap the live results box to the "
+msgstr "جعبه نتایج زنده را به صفحه ببندید"
+
+#: backend/tabs/instance/general/behavior.php:99
+msgid "The current state of the search and the filters is reflected in the address bar and remembered for the browser back/forward buttons."
+msgstr "وضعیت فعلی جستجو و فیلترها در نوار آدرس منعکس می‌شود و برای دکمه‌های برگشت/به‌جلو مرورگر به خاطر سپرده می‌شود."
+
+#: backend/tabs/instance/general/behavior.php:94
+msgid "Update the browser address bar with the last selected options?"
+msgstr "نوار آدرس مرورگر با آخرین گزینه های انتخاب شده به روز شود؟"
+
+#: backend/tabs/compatibility/cssjs_options.php:38
+msgid "Lazy loader for the search initializer script. It can reduce the initial javascript thread work and increase the google lighthouse score."
+msgstr "لودر تنبل برای اسکریپت آغازگر جستجو. این می تواند کار اولیه نخ جاوا اسکریپت را کاهش دهد و امتیاز گوگل Lighthouse را افزایش دهد."
+
+#: backend/tabs/compatibility/cssjs_options.php:34
+msgid "Initialize search instances only when they get visible on the viewport?"
+msgstr "نمونه‌های جستجو را تنها زمانی که در ویوپورت قابل مشاهده هستند، راه‌اندازی کنید؟"
+
+#: backend/tabs/instance/layout/results_layout.php:133
+msgid "If turned OFF, it will use WordPress defaults. Default custom value: <b>Y-m-d H:i:s</b>"
+msgstr "اگر خاموش باشد، از پیش فرض وردپرس استفاده خواهد کرد. مقدار سفارشی پیش فرض:  <b>Y-m-d H:i:s</b>"
+
+#: backend/tabs/instance/layout/results_layout.php:123
+msgid " format"
+msgstr "قالب"
+
+#: backend/tabs/instance/layout/results_layout.php:116
+msgid "Use custom date format?"
+msgstr "از فرمت تاریخ سفارشی استفاده کنید ?"
+
+#: backend/tabs/instance/layout/results_layout.php:16
+msgid "Results box width"
+msgstr "عرض جعبه نتایج"
+
+#: backend/tabs/instance/general_options.php:6
+msgid "Results Page Live Loader"
+msgstr "بارگزار صفحه نتایج زنده"
+
+#: backend/tabs/instance/general_options.php:3
+msgid "Behavior"
+msgstr "رفتار"
+
+#: backend/tabs/instance/general/results_page_live_loader.php:69
+msgid "Trigger live search when hitting the return key?"
+msgstr "هنگام زدن کلید بازگشت، جستجوی زنده فعال شود؟"
+
+#: backend/tabs/instance/general/results_page_live_loader.php:59
+msgid "Trigger live search when clicking the magnifier button?"
+msgstr "هنگام کلیک کردن روی دکمه ذره‌بین، جستجوی زنده فعال شود؟"
+
+#: backend/tabs/instance/general/results_page_live_loader.php:49
+msgid "Trigger live search when changing a facet on settings?"
+msgstr "هنگام تغییر یک جنبه در تنظیمات، جستجوی زنده فعال شود؟"
+
+#: backend/tabs/instance/general/results_page_live_loader.php:44
+#: backend/tabs/instance/general/results_page_live_loader.php:54
+#: backend/tabs/instance/general/results_page_live_loader.php:64
+#: backend/tabs/instance/general/results_page_live_loader.php:74
+msgid "If enabled, on the results page (or custom Elementor posts widget page), overrides the default behavior."
+msgstr "اگر فعال باشد، در صفحه نتایج (یا صفحه ویجت پست‌های سفارشی المنتور)، رفتار پیش‌فرض را لغو می‌کند."
+
+#: backend/tabs/instance/general/results_page_live_loader.php:39
+msgid "Trigger live search when typing?"
+msgstr "هنگام تایپ کردن، جستجوی زنده فعال شود؟"
+
+#: backend/tabs/instance/general/results_page_live_loader.php:36
+msgid "Results page live loader triggers"
+msgstr "محرک های بارگذار زنده صفحه نتایج"
+
+#: backend/tabs/instance/general/results_page_live_loader.php:31
+msgid "In many themes this is <strong>#main</strong>, but it can be different. This is very important to get right, or this will surely not work. The plugin will try other values as well, if this fails."
+msgstr "در بسیاری از تم ها این <strong>#اصلي </strong> است، اما می تواند متفاوت باشد.  این بسیار مهم است که درست شود، یا این قطعا کار نخواهد کرد.  افزونه ارزش های دیگر نیز را امتحان خواهد کرد، اگر این کار نتواند انجام شود."
+
+#: backend/tabs/instance/general/results_page_live_loader.php:27
+msgid "Results container jQuery element selector"
+msgstr "محتوا ي نتایج انتخابگر عنصر jQuery"
+
+#: backend/tabs/instance/general/results_page_live_loader.php:22
+msgid "If this is enabled, and the current page is the results page, the plugin will try to load the results there, without reloading the page."
+msgstr "اگر این فعال باشد، و صفحه فعلی صفحه نتایج است، پلاگین سعی خواهد کرد که نتایج را بارگیری کند، بدون بارگذاری مجدد صفحه."
+
+#: backend/tabs/instance/general/results_page_live_loader.php:17
+msgid "Live load the results on the results page? <strong>(experimental)</strong>"
+msgstr "بارگذاري زنده نتايج در صفحه نتايج ?  <strong>(تجربي )  </strong>"
+
+#: backend/tabs/instance/general/results_page_live_loader.php:11
+msgid ""
+"<strong>Disclaimer:</strong> Live loading items to a page causes the script event handlers to detach on the affected elements - if there are\n"
+"        interactive elements (pop-up buttons etc..) controlled by a script within the results, they will probably stop working after a live load.\n"
+"        This cannot be prevented from this plugins perspective. <a href=\"%s\" target=\"_blank\">More information here.</a>"
+msgstr ""
+"<strong>سلب مسئولیت:</strong> بارگیری مستقیم موارد در یک صفحه باعث می‌شود کنترل‌کننده‌های رویداد اسکریپت از عناصر آسیب‌دیده جدا شوند - در صورت وجود\n"
+"         عناصر تعاملی (دکمه‌های پاپ آپ و غیره) که توسط یک اسکریپت در نتایج کنترل می‌شوند، احتمالاً پس از بارگذاری زنده از کار می‌افتند.\n"
+"         از این منظر پلاگین نمی توان از این امر جلوگیری کرد. <a href=\"%s\" target=\"_blank\">اطلاعات بیشتر در اینجا.</a>"
+
+#: backend/tabs/instance/general/results_page_live_loader.php:3
+msgid "Results page live loader"
+msgstr "بارگذاري زنده نتايج صفحه"
+
+#: backend/tabs/compatibility/cssjs_options.php:28
+msgid "<b>Optimized asnynchronous</b> - Same as the Optimized, but the scripts load in the background"
+msgstr "<b>ناهمزمان بهینه شده</b> - مانند بهینه‌سازی‌شده، اما اسکریپت‌ها در پس‌زمینه بارگیری می‌شوند"
+
+#: backend/tabs/compatibility/cssjs_options.php:27
+msgid "<b>Optimized</b> - Scripts are loaded separately, but only the required ones"
+msgstr "<b>بهینه شده</b> - اسکریپت ها به طور جداگانه بارگیری می شوند، اما فقط موارد مورد نیاز"
+
+#: backend/tabs/compatibility/cssjs_options.php:26
+msgid "<b>Classic</b> - All scripts are loaded as blocking at the same time"
+msgstr "<b>کلاسیک</b> - همه اسکریپت ها به صورت مسدود کننده به طور همزمان بارگیری می شوند"
+
+#: backend/tabs/compatibility/cssjs_options.php:13
+msgid "Script loading method"
+msgstr "روش بارگذاری اسکریپت"
+
+#: backend/settings.php:21
+msgid "Search settings saved!"
+msgstr "تنظیمات جستجو ذخیره شد!"
+
+#: backend/tabs/instance/advanced/exclude_results.php:40
+msgid "Exclude results"
+msgstr "نتایج را حذف کنید"
+
+#: backend/performance_options.php:17
+msgid "Performance settings successfuly saved!"
+msgstr "تنظیمات عملکرد با موفقیت ذخیره شد!"
+
+#: backend/compatibility.php:63
+msgid "Query compatibility options"
+msgstr "گزینه های سازگاری جستار"
+
+#: backend/compatibility.php:58
+msgid "CSS and JS compatibility"
+msgstr "CSS و سازگاری JS"
+
+#: backend/compatibility.php:50
+msgid "Query compatibility"
+msgstr "سازگاری پرس و جو"
+
+#: backend/compatibility.php:49
+msgid "CSS & JS compatibility"
+msgstr "سازگاری CSS و JS"
+
+#: backend/compatibility.php:32
+msgid "Something went wrong, pelase try again!"
+msgstr "اشتباهی رخ داده لطفا دوباره تلاش کنید!"
+
+#: backend/compatibility.php:30
+msgid "Search compatibility settings successfuly updated!"
+msgstr "تنظیمات سازگاری جستجو با موفقیت به روز شد!"
+
+#: backend/tabs/compatibility/query_options.php:52
+msgid "Will try to force utf8 conversion on all LIKE operations in the WHERE and HAVING clauses."
+msgstr "سعی خواهد شد تبدیل نیروی utf8 را در تمام عملیات LIKE در موارد WHERE و HAVING اعمال شود."
+
+#: backend/tabs/compatibility/query_options.php:48
+msgid "Force utf8 on LIKE operations"
+msgstr "utf8 را روی عملیات لایک اجباری کنید"
+
+#: backend/tabs/compatibility/query_options.php:44
+msgid "Will try to force unicode character conversion on the search phrase."
+msgstr "سعی کنید نیروی تبدیل كاركتر يونيكد را در عبارت جستجو وارد کنید."
+
+#: backend/tabs/compatibility/query_options.php:40
+msgid "Force unicode search"
+msgstr "نیروی جستجو یونیکد"
+
+#: backend/tabs/compatibility/query_options.php:31
+msgid "InSensitivity"
+msgstr "عدم حساسیت"
+
+#: backend/tabs/compatibility/query_options.php:30
+msgid "Sensitivity"
+msgstr "حساسیت"
+
+#: backend/tabs/compatibility/query_options.php:29
+msgid "None"
+msgstr "هیچ یک"
+
+#: backend/tabs/compatibility/query_options.php:27
+msgid "Force case"
+msgstr "مورد نیرو"
+
+#: backend/tabs/compatibility/query_options.php:21
+msgid "If you have case/diacritic issues then please read the <a href=\"%s\" target=\"_blank\">MySql manual on collations</a> or consult a <b>database expert</b> - those issues should be treated on database level!"
+msgstr "در صورتی که مسائل مربوط به پرونده / دیاکریتی را داشته باشید، لطفابخوانید<a href=\"%s\" target=\"_blank\"> دستورالعمل MySql را در مقالها </a> یا با <b>متخصص پایگاه داده مشورت كنيد </b>- این مسائل باید در سطح پایگاه داده قرار گیرد!"
+
+#: backend/tabs/compatibility/query_options.php:20
+msgid "<i>The search works according to your database collation settings</i>, so please be aware that <b>this is not an effective way</b> of fixing database collation issues."
+msgstr "<i> جستجو با توجه به تنظیمات تنظیمات پایگاه داده شما انجام می شود </i>، بنابراین لطفا توجه داشته باشید که <b> این یک روش موثر نیست </b>براي اصلاح مسائل مربوط به جمع آوری پایگاه داده."
+
+#: backend/tabs/compatibility/query_options.php:19
+msgid "If you are experiencing issues with accent(diacritic) or case sensitiveness, you can force the search to try these tweaks."
+msgstr "اگر شما تجربه مشکلی با تمرکز (حساسیت) یا حساسیت به موردي دارید، می توانید جستجو را برای این ترفند ها امتحان کنید."
+
+#: backend/tabs/compatibility/query_options.php:12
+msgid "<strong>Advanced Custom Fields</strong>: use the ACF get_field() function to get the metadata?"
+msgstr "<strong>فیلدهای سفارشی پیشرفته</strong>: از تابع ACF get_field() برای دریافت فراداده استفاده کنید؟"
+
+#: backend/tabs/compatibility/query_options.php:7
+msgid "Use this option, when the search override does not work on the search results page."
+msgstr "از این گزینه برای زمانی که لغو جستجو در صفحه نتایج جستجو کار نمی کند، استفاده کنید."
+
+#: backend/tabs/compatibility/query_options.php:3
+msgid "Do a soft-check only on search override, when trying to check if the current query is the search?"
+msgstr "آیا هنگام تلاش برای بررسی اینکه آیا جستجوی فعلی همان جستجو است، یک بررسی نرم فقط در مورد لغو جستجو انجام می شود؟"
+
+#: backend/tabs/compatibility/cssjs_options.php:54
+msgid "When <strong>turned off</strong>, the google fonts <strong>will not be loaded</strong> via this plugin at all.<br>Useful if you already have them loaded, to avoid mutliple loading times."
+msgstr "هنگامی که <strong>خاموش است</strong>، فونت‌های Google به هیچ وجه <strong>بارگیری نمی‌شوند</strong> از طریق این افزونه.<br>اگر قبلاً آنها را بارگذاری کرده‌اید، برای جلوگیری از بارگذاری چندگانه مفید است."
+
+#: backend/tabs/compatibility/cssjs_options.php:50
+msgid "Load the <strong>google fonts</strong> used in the search options?"
+msgstr "بارگذاری <strong>فونت های گوگل</strong> كه  در گزینه های جستجو  مورد استفاده قرار گرفته است؟"
+
+#: backend/tabs/compatibility/cssjs_options.php:46
+msgid "Will try to re-initialize the plugin in case an AJAX page loader is used, like Polylang language switcher etc.."
+msgstr "سعی خواهد کرد که پلاگین را دوباره مقداردهی کنید در صورتی که یک صفحه بارگزار AJAX استفاده شود، مانند Switch Polylang زبان و غیره …"
+
+#: backend/tabs/compatibility/cssjs_options.php:42
+msgid "Try to re-initialize if the page was loaded via ajax?"
+msgstr "سعی کنید مجددا مقداردهی کنید اگر صفحه از طریق ajax بارگیری شد?"
+
+#: backend/tabs/compatibility/cssjs_options.php:3
+msgid "Javascript source"
+msgstr "منبع جاوا اسکریپت"
+
+#: backend/tabs/instance/layout/box_layout.php:200
+msgid "Override settings box border?"
+msgstr "حاشیه جعبه تنظیمات لغو شود؟"
+
+#: backend/tabs/instance/layout/box_layout.php:185
+msgid "Override settings container background color?"
+msgstr "تنظیمات رنگ پس‌زمینه ظرف لغو شود؟"
+
+#: backend/tabs/instance/layout/box_layout.php:182
+msgid "Settings theme"
+msgstr "تنظیمات قالب"
+
+#: backend/tabs/instance/layout/box_layout.php:167
+msgid "Override results box border?"
+msgstr "حاشیه جعبه نتایج لغو شود؟"
+
+#: backend/tabs/instance/layout/box_layout.php:152
+msgid "Override results background color?"
+msgstr "رنگ پس‌زمینه نتایج لغو شود؟"
+
+#: backend/tabs/instance/layout/box_layout.php:138
+msgid "Override results container background color?"
+msgstr "رنگ پس‌زمینه ظرف نتایج لغو شود؟"
+
+#: backend/tabs/instance/layout/box_layout.php:135
+msgid "Results theme"
+msgstr "موضوع نتایج"
+
+#: backend/tabs/instance/layout/box_layout.php:15
+msgid "Theme & Input & Colors"
+msgstr "تم و ورودی و رنگ ها"
+
+#: backend/tabs/instance/layout/keyword_highlight.php:79
+msgid "Optional, but very useful - it tells which element contains exactly the result content, so words are highlighted only on the given section of the page."
+msgstr "اختیاری، اما بسیار مفید - می گوید کدام عنصر دقیقاً حاوی محتوای نتیجه است، بنابراین کلمات فقط در بخش داده شده از صفحه برجسته می شوند."
+
+#: backend/tabs/instance/layout/keyword_highlight.php:75
+msgid "Result page content jQuery element selector"
+msgstr "انتخابگر عنصر jQuery محتوای صفحه نتیجه"
+
+#: backend/tabs/instance/layout/keyword_highlight.php:71
+msgid "A negative offset will move the window upwards, a positive downwards. Default: 0"
+msgstr "یک افست منفی پنجره را به سمت بالا و مثبت به سمت پایین حرکت می دهد. پیش فرض: 0"
+
+#: backend/tabs/instance/layout/keyword_highlight.php:68
+msgid "scroll offset (px)"
+msgstr "اسکرول افست (px)"
+
+#: backend/tabs/instance/layout/keyword_highlight.php:66
+msgid "Scroll to the first keyword match if possible?"
+msgstr "در صورت امکان به اولین کلمه کلیدی مطابقت بروید؟"
+
+#: backend/tabs/instance/layout/keyword_highlight.php:60
+msgid "Highlight-text background color"
+msgstr "رنگ پس زمینه متن برجسته"
+
+#: backend/tabs/instance/layout/keyword_highlight.php:56
+msgid "Highlight text color"
+msgstr "رنگ متن های لایت"
+
+#: backend/tabs/instance/layout/keyword_highlight.php:52
+msgid "Highlight only whole words?"
+msgstr "فقط کل کلمات را برجسته کنید؟"
+
+#: backend/tabs/instance/layout/keyword_highlight.php:47
+msgid "Highlight search text on single result pages?"
+msgstr "متن جستجو در صفحات نتیجه تک برجسته شود؟"
+
+#: backend/tabs/instance/layout/keyword_highlight.php:44
+msgid "<strong>Disclaimer: </strong> This feature is highly experimental, and may not work correctly in all cases."
+msgstr "<strong>سلب مسئولیت: </strong> این ویژگی بسیار آزمایشی است و ممکن است در همه موارد به درستی کار نکند."
+
+#: backend/tabs/instance/layout/keyword_highlight.php:36
+msgid "Results text keyword highlighter - Single result page"
+msgstr "برجسته‌کننده کلمه کلیدی متن نتایج - صفحه نتیجه واحد"
+
+#: backend/tabs/instance/layout/keyword_highlight.php:3
+msgid "Results text keyword highlighter - Live results list"
+msgstr "برجسته‌کننده کلمه کلیدی متن نتایج - فهرست نتایج زنده"
+
+#: backend/tabs/instance/layout/results_layout.php:147
+msgid " ..depth"
+msgstr " ...عمق"
+
+#: backend/tabs/instance/layout_options.php:2
+msgid "Search Box layout & Theme"
+msgstr "طرح و تم جعبه جستجو"
+
+#: backend/tabs/instance/advanced_options.php:15
+msgid "Exclude/Include results"
+msgstr "حذف / اضافه کردن نتایج"
+
+#: backend/tabs/instance/advanced_options.php:4
+#: backend/tabs/instance/advanced_options.php:27
+msgid "Keyword exceptions"
+msgstr "استثناء کلمات کلیدی"
+
+#: backend/tabs/instance/advanced_options.php:2
+msgid "Content & Fields"
+msgstr "محتوا و زمینه ها"
+
+#: backend/tabs/instance/advanced/exclude_results.php:30
+msgid "This case means \"Search results only\""
+msgstr "این مورد به معنای \"فقط نتایج جستجو\" است"
+
+#: backend/tabs/instance/advanced/exclude_results.php:23
+msgid "\"Hidden\" in this case means \"Shop only\" or \"Hidden\""
+msgstr "\"مخفی\" در این مورد به معنای \"فقط فروشگاه\" یا \"مخفی\" است."
+
+#: backend/tabs/instance/advanced/exclude_results.php:17
+msgid "WooCommerce related"
+msgstr "مرتبط با ووکامرس"
+
+#: backend/tabs/instance/advanced/exclude_results.php:2
+msgid "Mutli-language support"
+msgstr "پشتیبانی چند زبانه"
+
+#: backend/tabs/instance/advanced/kw_exceptions.php:14
+msgid "<strong>Comma separated list</strong> of keywords you want to remove or ban. Only matching whole words between word boundaries."
+msgstr "<strong> لیست جدا شده با کاما </strong> از کلمات کلیدی که می خواهید حذف کنید یا ممنوع کنید. فقط متناسب با کلمات کلیدی بین مرزهای کلمه."
+
+#: backend/tabs/instance/advanced/kw_exceptions.php:11
+msgid "Keyword exceptions - replace whole words only"
+msgstr "استثناء کلمات کلیدی -فقط کلمات کامل را جایگزین کنید"
+
+#: backend/tabs/instance/advanced/kw_exceptions.php:7
+msgid "<strong>Comma separated list</strong> of keywords you want to remove or ban. Matching anything, even partial words."
+msgstr "<strong> لیست جدا شده با کاما </strong> از کلمات کلیدی که می خواهید حذف کنید یا ممنوع کنید. مطابقت هر چیزی، حتی کلمات جزئی."
+
+#: backend/tabs/instance/advanced/kw_exceptions.php:4
+msgid "Keyword exceptions - replace anywhere"
+msgstr "استثناء کلمات کلیدی- هر جای جایگزین"
+
+#: backend/tabs/instance/advanced/kw_exceptions.php:1
+msgid "Keyword exceptions will be replaced with an empty string \"\" in the search phrase."
+msgstr "استثناء کلمات کلیدی با عبارت رشته ای خالی در عبارت جستجو جایگزین خواهد شد."
+
+#: backend/tabs/instance/advanced/content.php:98
+msgid "Advanced Description Field (default: {descriptionfield})"
+msgstr "فیلد توضیحات پیشرفته (به طور پیش فرض: {descriptionfield})"
+
+#: backend/tabs/instance/advanced/content.php:92
+#: backend/tabs/instance/advanced/content.php:104
+msgid "More possibilities explained here!"
+msgstr "امکانات بیشتر در اینجا توضیح داد ه شده!"
+
+#: backend/tabs/instance/advanced/content.php:90
+#: backend/tabs/instance/advanced/content.php:102
+msgid "HTML is supported! Use {custom_field_name} format to have custom field values."
+msgstr "HTML پشتیبانی می شود! از فرمت {custom_field_name} برای استفاده از مقادیر فیلد سفارشی استفاده کنید."
+
+#: backend/tabs/instance/advanced/content.php:86
+msgid "Advanced Title Field (default: {titlefield})"
+msgstr "زمینه عنوان پیشرفته (به طور پیش فرض: {titlefield})"
+
+#: backend/tabs/instance/advanced/content.php:77
+msgid "Advanced Title and Content fields"
+msgstr "فیلدهای عنوان و محتوا پیشرفته"
+
+#: backend/tabs/instance/advanced/content.php:17
+msgid "Title and Content fields"
+msgstr "فیلدهای عنوان و محتوا"
+
+#: backend/tabs/instance/general_options.php:5
+#: backend/tabs/instance/general_options.php:39
+msgid "Autocomplete & Suggestions"
+msgstr "تکمیل خودکار و پیشنهادات"
+
+#: backend/tabs/instance/general_options.php:4
+#: backend/tabs/instance/general_options.php:27
+msgid "Ordering"
+msgstr "ترتیب آیتم ها را انتخاب کنید."
+
+#: backend/tabs/instance/general_options.php:12
+msgid "Sources & Basics"
+msgstr "منابع و مبانی"
+
+#: backend/tabs/instance/general/behavior.php:70
+msgid "Trigger and redirection behavior"
+msgstr "رفتار محرک و تغییر مسیر"
+
+#: backend/tabs/instance/general/behavior.php:64
+msgid "When the search is placed within a mobile navigation menu, you can define a jQuery selector of the opening menu item here - which when clicking auto focuses the search"
+msgstr "هنگامی که جستجو در یک منوی ناوبری تلفن همراه قرار می گیرد، می توانید یک انتخابگر jQuery از آیتم منوی باز شده را در اینجا تعریف کنید - که هنگام کلیک کردن روی خودکار جستجو را متمرکز می کند."
+
+#: backend/tabs/instance/general/behavior.php:59
+msgid "Auto focus when opening the navigation menu (jQuery selector)"
+msgstr "فوکوس خودکار هنگام باز کردن منوی پیمایش (انتخابگر jQuery)"
+
+#: backend/tabs/instance/general/behavior.php:55
+msgid "Mobile specific"
+msgstr "مخصوص موبایل"
+
+#: backend/settings.php:125 backend/settings.php:139
+#: backend/tabs/instance/advanced/content.php:20
+#: backend/tabs/instance/advanced/content.php:80
+#: backend/tabs/instance/advanced_options.php:18
+#: backend/tabs/instance/advanced_options.php:30
+#: backend/tabs/instance/general/behavior.php:6
+#: backend/tabs/instance/general/behavior.php:73
+#: backend/tabs/instance/general/results_page_live_loader.php:6
+#: backend/tabs/instance/general_options.php:15
+#: backend/tabs/instance/general_options.php:30
+#: backend/tabs/instance/general_options.php:42
+#: backend/tabs/instance/layout/box_layout.php:18
+#: backend/tabs/instance/layout/keyword_highlight.php:6
+#: backend/tabs/instance/layout/keyword_highlight.php:39
+#: backend/tabs/instance/layout_options.php:17
+#: backend/tabs/instance/layout_options.php:29
+msgid "Documentation"
+msgstr "مستندات"
+
+#: backend/tabs/instance/general/behavior.php:3
+msgid "Logic and matching"
+msgstr "منطق و تطبیق"
+
+#: backend/tabs/instance/general/ordering.php:71
+msgid "If two elements match the primary ordering criteria, the <b>Secondary ordering</b> is used."
+msgstr "اگر دو عنصر با معیارهای سفارش اولیه مطابقت داشته باشند، <b>ترتیب ثانویه</b> استفاده می شود."
+
+#: backend/tabs/instance/general/ordering.php:48
+msgid "Custom Field ascending"
+msgstr "فیلد سفارشی صعودی"
+
+#: backend/tabs/instance/general/ordering.php:38
+msgid "Secondary ordering"
+msgstr "سفارش دوم"
+
+#: backend/tabs/instance/general/ordering.php:29
+#: backend/tabs/instance/general/ordering.php:63
+msgid "string or date"
+msgstr "رشته یا تاریخ"
+
+#: backend/tabs/instance/general/ordering.php:28
+#: backend/tabs/instance/general/ordering.php:62
+msgid "numeric"
+msgstr "عددی"
+
+#: backend/tabs/instance/general/ordering.php:25
+#: backend/tabs/instance/general/ordering.php:59
+msgid "type"
+msgstr "نوع"
+
+#: backend/tabs/instance/general/ordering.php:22
+#: backend/tabs/instance/general/ordering.php:56
+msgid "custom field"
+msgstr "فیلد سفارشی"
+
+#: backend/tabs/instance/general/ordering.php:14
+msgid "Custom Field  ascending"
+msgstr "فيلد  سفارشی صعودي"
+
+#: backend/tabs/instance/general/ordering.php:13
+#: backend/tabs/instance/general/ordering.php:47
+msgid "Custom Field descending"
+msgstr "فيلد  سفارشی نزولی"
+
+#: backend/tabs/instance/general/ordering.php:12
+#: backend/tabs/instance/general/ordering.php:46
+msgid "Random"
+msgstr "تصادفی"
+
+#: backend/tabs/instance/general/ordering.php:11
+msgid "Menu order ascending"
+msgstr "ترتیب منو به صورت صعودی"
+
+#: backend/tabs/instance/general/ordering.php:10
+msgid "Menu order descending"
+msgstr "ترتیب منو نزولی است"
+
+#: backend/tabs/instance/general/ordering.php:9
+#: backend/tabs/instance/general/ordering.php:45
+msgid "Date ascending"
+msgstr "تاریخ - صعودی"
+
+#: backend/tabs/instance/general/ordering.php:8
+#: backend/tabs/instance/general/ordering.php:44
+msgid "Date descending"
+msgstr "تاریخ - نزولی"
+
+#: backend/tabs/instance/general/ordering.php:7
+#: backend/tabs/instance/general/ordering.php:43
+msgid "Title ascending"
+msgstr "عنوان صعودی"
+
+#: backend/tabs/instance/general/ordering.php:6
+#: backend/tabs/instance/general/ordering.php:42
+msgid "Title descending"
+msgstr "عنوان نزولی"
+
+#: backend/tabs/instance/general/ordering.php:5
+#: backend/tabs/instance/general/ordering.php:41
+msgid "Relevance"
+msgstr "ارتباط"
+
+#: backend/tabs/instance/general/ordering.php:2
+msgid "Primary ordering"
+msgstr "مرتب سازی اوليه"
+
+#: backend/tabs/instance/image_options.php:134
+msgid "If any part of the image filename or path contains any of the above strings, it is excluded."
+msgstr "اگر هر بخشی از نام فایل تصویری یا مسیر حاوی هر یک از رشته های بالا باشد، حذف می شود."
+
+#: backend/tabs/instance/image_options.php:107
+msgid "Featured image size source"
+msgstr "منبع تصویر جایگزین 5"
+
+#: backend/tabs/instance/image_options.php:36
+msgid "If you have <strong>missing images in results</strong>, try turning ON this option. <strong>Can cause lower performance!</strong>"
+msgstr "اگر <strong>تصاویر دلخواه در نتایج ندارید</strong>، سعی کنید این گزینه را روشن کنید.<strong> می تواند باعث کاهش کارایی شود!<strong/>"
+
+#: backend/tabs/instance/image_options.php:35
+msgid "Will execute shortcodes and apply the content filter before looking for images in the post content."
+msgstr "کد کوتاه را اجرا خواهد شد  قبل از جستجوی تصاویر در محتوای پست، فیلتر محتوای را اعمال کنید."
+
+#: backend/tabs/instance/image_options.php:30
+msgid "Execute shortcodes when looking for images in content?"
+msgstr "هنگام جستجو برای تصاویر در محتوا کد کوتاه را اجرا کنید?"
+
+#: backend/tabs/instance/image_options.php:18
+msgid "display mode"
+msgstr "حالت نمایش"
+
+#: backend/tabs/instance/image_options.php:14
+msgid "height (px)"
+msgstr "ارتفاع (px)"
+
+#: backend/tabs/instance/image_options.php:10
+msgid "Image width (px)"
+msgstr "عرض تصویر (px)"
+
+#: backend/tabs/instance/advanced/exclude_results.php:20
+msgid "Exclude hidden search WooCommerce products from search?"
+msgstr "محصولات پنهان ووکامرس را از جستجو حذف کنید؟"
+
+#: backend/tabs/instance/general/behavior.php:24
+msgid "Complete match"
+msgstr "مسابقه کامل"
+
+#: backend/tabs/instance/general/behavior.php:23
+msgid "Ending with phrase"
+msgstr "پایان با عبارت"
+
+#: backend/tabs/instance/general/behavior.php:22
+msgid "Starting with phrase"
+msgstr "شروع با عبارت"
+
+#: backend/tabs/instance/general/behavior.php:21
+msgid "Anywhere"
+msgstr "این لینک ارجاع دهنده است، آن را به اشتراک بگذارید"
+
+#: backend/tabs/instance/general/sources.php:83
+msgid "Search and return password protected posts?"
+msgstr "پستهای محافظت شده با رمز عبور را جستجو و بازگردانید؟"
+
+#: backend/analytics.php:305
+msgid "Save options"
+msgstr "ذخیره تنظیمات"
+
+#: backend/analytics.php:304
+msgid "Restore defaults"
+msgstr "بازگرداندن پیش فرض ها"
+
+#: backend/analytics.php:276
+msgid "Results click event tracking"
+msgstr "نتایج روی ردیابی رویداد کلیک می کنند"
+
+#: backend/analytics.php:257 backend/analytics.php:282
+msgid "Triggers, whenever the user changes any option on the front-end settings"
+msgstr "راه اندازها ، هر زمان که کاربر در تنظیمات جلویی گزینه ای را تغییر می دهد"
+
+#: backend/analytics.php:251
+msgid "Facet change event tracking"
+msgstr "ردیابی رویداد تغییر چهره"
+
+#: backend/analytics.php:232
+msgid "Triggers, whenever the user hits the enter button in the search input field"
+msgstr "راه اندازی ها ، هر زمان که کاربر در قسمت ورودی جستجو دکمه ورود را می زند"
+
+#: backend/analytics.php:226
+msgid "Return key event tracking"
+msgstr "ردیابی رویداد اصلی را برگردانید"
+
+#: backend/analytics.php:207
+msgid "Triggers, whenever the user clicks the magnifier icon"
+msgstr "راه اندازی ها ، هر زمان که کاربر روی نماد ذره بین کلیک می کند"
+
+#: backend/analytics.php:201
+msgid "Magnifier click event tracking"
+msgstr "ذره بین بروی ردیابی رویداد کلیک کنید"
+
+#: backend/analytics.php:182
+msgid "Triggers, whenever the live search ends."
+msgstr "راه اندازی ها ، هر زمان که جستجوی زنده به پایان می رسد."
+
+#: backend/analytics.php:176
+msgid "Live search end event tracking"
+msgstr "ردیابی رویداد پایان جستجوی زنده"
+
+#: backend/analytics.php:157
+msgid "Triggers, whenever the live search starts."
+msgstr "ماشه ها، هر زمان که جستجوی مستقیم شروع می شود."
+
+#: backend/analytics.php:151
+msgid "Live search start event tracking"
+msgstr "جستجوی زنده ردیابی رویداد را شروع کنید."
+
+#: backend/analytics.php:146 backend/analytics.php:171
+#: backend/analytics.php:196 backend/analytics.php:221
+#: backend/analytics.php:246 backend/analytics.php:271
+#: backend/analytics.php:296
+msgid "Event value"
+msgstr "پیشنهاداتی از حافظه ترجمه"
+
+#: backend/analytics.php:145 backend/analytics.php:170
+#: backend/analytics.php:195 backend/analytics.php:220
+#: backend/analytics.php:245 backend/analytics.php:270
+#: backend/analytics.php:295
+msgid "Event label"
+msgstr "برچسب رویداد"
+
+#: backend/analytics.php:144 backend/analytics.php:169
+#: backend/analytics.php:194 backend/analytics.php:219
+#: backend/analytics.php:244 backend/analytics.php:269
+#: backend/analytics.php:294
+msgid "Event category"
+msgstr "دسته رویداد"
+
+#: backend/analytics.php:143 backend/analytics.php:168
+#: backend/analytics.php:193 backend/analytics.php:218
+#: backend/analytics.php:243 backend/analytics.php:268
+#: backend/analytics.php:293
+msgid "Event action"
+msgstr "اقدام رویداد"
+
+#: backend/analytics.php:138 backend/analytics.php:163
+#: backend/analytics.php:188 backend/analytics.php:213
+#: backend/analytics.php:238 backend/analytics.php:263
+#: backend/analytics.php:288
+msgid "Usable variables: %s"
+msgstr "متغیرهای قابل استفاده:%s"
+
+#: backend/analytics.php:132
+msgid "Triggers, whenever the user clicks on the search input field."
+msgstr "ماشه ها، هر زمان که کاربر روی قسمت ورودی جستجو کلیک می کند."
+
+#: backend/analytics.php:129 backend/analytics.php:154
+#: backend/analytics.php:179 backend/analytics.php:204
+#: backend/analytics.php:229 backend/analytics.php:254
+#: backend/analytics.php:279
+msgid "Enabled"
+msgstr "فعال شده"
+
+#: backend/analytics.php:126
+msgid "Search input focus event tracking"
+msgstr "ردیابی رویداد تمرکز ورودی را جستجو کنید"
+
+#: backend/analytics.php:102
+msgid "Google analytics Tracking ID (ex.: UA-XXXXXX-X)"
+msgstr "شناسه رهگیری تجزیه و تحلیل گوگل (مانند:UA-XXXXXX-X)"
+
+#: backend/analytics.php:95
+msgid "To understand how this works, please read the <a href=\"%s\">Analytics Integration Documentation</a>"
+msgstr "برای درک نحوه عملکرد ، لطفاً <a href=\"%s\"> مستندات یکپارچه سازی و تحلیل را مطالعه کنید</a>"
+
+#: backend/analytics.php:89
+msgid "Tracking as pageview (legacy)"
+msgstr "ردیابی به عنوان نمایش صفحه (قدیمی)"
+
+#: backend/analytics.php:88
+msgid "Event Tracking"
+msgstr "ردگیری وقایع"
+
+#: backend/analytics.php:87
+msgid "Disabled"
+msgstr "غیرفعال"
+
+#: backend/analytics.php:72 backend/performance_options.php:19
+#: backend/settings.php:23
+msgid "<strong>ERROR Saving:</strong> Invalid NONCE, please try again!"
+msgstr "<strong> خطا ذخیره سازی: </strong> عملیات نامعتبر است ، لطفاً دوباره امتحان کنید!"
+
+#: backend/analytics.php:70
+msgid "Analytics settings saved!"
+msgstr "تنظیمات تجزیه و تحلیل ذخیره شد!"
+
+#: backend/analytics.php:14
+msgid "<strong>ERROR Resetting:</strong> Invalid NONCE, please try again!"
+msgstr "<strong> بازنشانی خطا: </strong> نامعتبر است ، لطفاً دوباره امتحان کنید!"
+
+#: backend/analytics.php:12
+msgid "Analytics settings were reset to defaults!"
+msgstr "تنظیمات تجزیه و تحلیل به طور پیش فرض بازنشانی شد!"
+
+#: backend/tabs/instance/layout/results_layout.php:56
+msgid "Column minimum width (px)"
+msgstr "حداقل عرض ستون (پیکسل)"
+
+#: backend/tabs/instance/layout/results_layout.php:41
+msgid "Number of result columns"
+msgstr "تعداد ستون ها"
+
+#: backend/tabs/instance/layout/box_layout.php:58
+#: backend/tabs/instance/layout/results_layout.php:34
+#: backend/tabs/instance/layout/results_layout.php:74
+msgid "Use with <a href=\"%s\" target=\"_blank\">CSS units</a> (like %s or %s or %s ..) Default: <strong>%s</strong>"
+msgstr "با <a href=\"%s\" target=\"_blank\"> واحدهای css </a> استفاده کنید (مانند%sیا %sیا %s ..) پیش فرض: <strong>%s</strong>"
+
+#: backend/settings/class/textsmall.class.php:47
+msgid "Desktop devices, 1025px width  and higher"
+msgstr "دستگاههای دسکتاپ، عرض 1025 پیکسل و بالاتر"
+
+#: backend/settings/class/textsmall.class.php:46
+msgid "Tablet devices, on 641px to 1024px widths"
+msgstr "دستگاه‌های تبلت با عرض 641px تا 1024px"
+
+#: backend/settings/class/textsmall.class.php:45
+msgid "Phone devices, on 0px to 640px widths"
+msgstr "دستگاه های تلفن، در عرض های 0px تا 640px"
+
+#: backend/tabs/instance/general/behavior.php:209
+msgid ""
+"<strong>WARNING:</strong> This should be set to the same as the number of results originally displayed on the results page!<br>\n"
+"        Most themes use the system option found on the <strong>General Options -> Reading</strong> submenu, which is 10 by default. <br>\n"
+"        If you set it differently, or your theme has a different option for that, then <strong>set this option to the same value</strong> as well."
+msgstr ""
+"<strong>هشدار: </strong>\n"
+"این تنظیم باید همان تعداد نتایج باشد که در ابتدا در صفحه نتایج نشان داده می شود! <br> \n"
+" بیشتر مضامین از گزینه سیستم موجود در <strong> گزینه های عمومی -> خواندن </strong> زیر منو ، که به طور پیش فرض 10 است. <br> \n"
+"اگر آنرا متفاوت تنظیم کرده اید، یا طرح زمینه شما گزینه دیگری برای آن دارد، <strong> این گزینه را نیز روی همان مقدار تنظیم کنید </strong>"
+
+#: backend/tabs/instance/general/behavior.php:207
+msgid "The number of results per page, on the results page."
+msgstr "تعداد نتایج در هر صفحه، در صفحه نتایج."
+
+#: backend/tabs/instance/general/behavior.php:203
+msgid "Results count per page?"
+msgstr "نتایج شمارش در هر صفحه؟"
+
+#: backend/tabs/instance/general/sources.php:79
+msgid "Comma separated list. WP Defaults: publish, future, draft, pending, private, trash, auto-draft"
+msgstr "لیست جدا شده با کاما. WP پیش فرض: انتشار ، آینده ، پیش نویس ، در انتظار ، خصوصی ، سطل زباله ،پیش نویس خودکار"
+
+#: backend/tabs/instance/general/sources.php:75
+msgid "Post statuses to search"
+msgstr "وضعیت ارسال برای جستجو"
+
+#: backend/tabs/instance/general/sources.php:54
+msgid "Search in post (and CPT) IDs?"
+msgstr "جستجو در شناسه پست (و CPT)?"
+
+#: backend/tabs/instance/layout/custom_css.php:2
+msgid ""
+"This css will be added before the plugin as inline CSS so it has a precedence\n"
+"    over plugin CSS. (you can override existing rules)"
+msgstr "این css قبل از پلاگین به عنوان css درون خطی اضافه خواهد شد بنابراین دارای اولویت است بیش از پلاگین css . (می توانید قوانین موجود را نادیده بگیرید)"
+
+#: backend/tabs/instance/layout/custom_css.php:7
+#: backend/tabs/instance/layout_options.php:6
+#: backend/tabs/instance/layout_options.php:41
+msgid "Custom CSS"
+msgstr "سی اس اس سفارشی"
+
+#: backend/tabs/instance/general/behavior.php:49
+msgid "Please note: For <strong>performance rasons</strong> exact word matching in the Lite version is only able to check space-separated words. Commas, dots, question marks etc.. are not considered as word separators."
+msgstr "لطفاً توجه داشته باشید: برای <strong> عملکرد واقعی </strong> مطابقت دقیق کلمات در نسخه Lite فقط قادر به بررسی کلمات جدا شده از فضا است. ویرگول ، نقطه ، علامت سوال و غیره به عنوان جدا کننده کلمه در نظر گرفته نمی شوند."
+
+#: backend/tabs/instance/general/behavior.php:46
+msgid "This determines if the result should match either of the entered phrases (OR logic) or all of the entered phrases (AND logic)."
+msgstr "این تعیین می کند که آیا نتیجه باید با هر یک از عبارات وارد شده (منطق OR) یا تمام عبارات وارد شده (منطق AND) مطابقت داشته باشد."
+
+#: backend/tabs/instance/general/behavior.php:39
+msgid "AND with exact word matches"
+msgstr "و با کلمات دقیق مسابقات"
+
+#: backend/tabs/instance/general/behavior.php:38
+msgid "AND"
+msgstr "و"
+
+#: backend/tabs/instance/general/behavior.php:37
+msgid "OR with exact word matches"
+msgstr "یا با کلمات دقیق مسابقات"
+
+#: backend/tabs/instance/general/behavior.php:36
+msgid "OR"
+msgstr "یا"
+
+#: backend/tabs/instance/layout/box_layout.php:127
+#: backend/tabs/instance/layout/box_layout.php:174
+#: backend/tabs/instance/layout/box_layout.php:207
+msgid "Border style"
+msgstr "استایل حاشیه"
+
+#: backend/tabs/instance/layout/box_layout.php:120
+msgid "Override search box border?"
+msgstr "مرز جعبه جستجو حذف شود؟"
+
+#: backend/tabs/instance/layout/box_layout.php:111
+msgid "icon colors"
+msgstr "رنگ آیکون"
+
+#: backend/tabs/instance/layout/box_layout.php:107
+msgid "icon background colors"
+msgstr "رنگ زمینه آیکون"
+
+#: backend/tabs/instance/layout/box_layout.php:101
+msgid "Override magnifier & icon colors?"
+msgstr "رنگهای ذره بین و نماد را حذف کنید؟"
+
+#: backend/tabs/instance/layout/box_layout.php:93
+#: backend/tabs/instance/layout/box_layout.php:144
+#: backend/tabs/instance/layout/box_layout.php:158
+#: backend/tabs/instance/layout/box_layout.php:191
+msgid "color:"
+msgstr "رنگ: "
+
+#: backend/tabs/instance/layout/box_layout.php:87
+msgid "Override background color?"
+msgstr "رنگ پس زمینه را حذف کنید؟"
+
+#: backend/tabs/instance/layout/box_layout.php:83
+msgid "Entering multiple font family names like <strong>Helvetica, Sans-serif</strong> or <strong>inherit</strong> are also supported."
+msgstr "وارد کردن نام خانوادگی چند قلم مانند<strong>Helvetica, Sans-serif</strong>  یا <strong>inherit</strong>  نیز پشتیبانی می شود."
+
+#: backend/tabs/instance/layout/box_layout.php:82
+msgid "The Font Family used within the plugin. Default: Open Sans"
+msgstr "خانواده قلم در این افزونه استفاده می شود. پیش فرض: Sans را باز کنید"
+
+#: backend/tabs/instance/layout/box_layout.php:79
+msgid "Search plugin Font Family"
+msgstr "افزونه جستجو Font Family"
+
+#: backend/tabs/instance/advanced/exclude_results.php:34
+msgid "Exclude WooCommerce out of stock products?"
+msgstr "WooCommerce از محصولات موجود خارج شود؟"
+
+#: backend/tabs/instance/layout/results_layout.php:89
+msgid "Used to calculate the box height. Result box height = (this option) x (average item height)"
+msgstr "برای محاسبه ارتفاع جعبه استفاده می شود. ارتفاع جعبه نتیجه = (این گزینه) x (میانگین ارتفاع مورد)"
+
+#: backend/tabs/instance/layout/results_layout.php:83
+msgid "If this value is reached, the scrollbar will definitely trigger. none or pixel units, like 800px. Default: none"
+msgstr "در صورت رسیدن به این مقدار ، نوار پیمایش قطعاً فعال می شود. هیچ واحد یا پیکسل ، مانند 800 پیکسل. پیش فرض: هیچ کدام"
+
+#: backend/tabs/instance/layout/results_layout.php:80
+msgid "Result box maximum height"
+msgstr "حداکثر ارتفاع جعبه نتیجه"
+
+#: backend/tabs/instance/general/behavior.php:148
+msgid "Action when pressing <strong>the return</strong> key"
+msgstr "هنگام فشار دادن کلید <strong> بازگشت </strong> اقدام کنید"
+
+#: backend/tabs/instance/general/behavior.php:125
+#: backend/tabs/instance/general/behavior.php:156
+msgid "Do nothing"
+msgstr "هیچ کاری نکن"
+
+#: backend/tabs/instance/general/behavior.php:124
+#: backend/tabs/instance/general/behavior.php:155
+msgid "Redirec to: Custom URL"
+msgstr "تغییر مسیر به آدرس سفارشی"
+
+#: backend/tabs/instance/general/behavior.php:123
+#: backend/tabs/instance/general/behavior.php:154
+msgid "Redirec to: First matching result"
+msgstr "تغییر مسیر به: اولین نتیجه مطابقت"
+
+#: backend/tabs/instance/general/behavior.php:122
+#: backend/tabs/instance/general/behavior.php:153
+msgid "Redirec to: Woocommerce results page"
+msgstr "تغییر مسیر به: صفحه نتایج Woocommerce"
+
+#: backend/tabs/instance/general/behavior.php:121
+#: backend/tabs/instance/general/behavior.php:152
+msgid "Redirec to: Results page"
+msgstr "تغییر مسیر به صفحه درباره"
+
+#: backend/tabs/instance/general/behavior.php:120
+#: backend/tabs/instance/general/behavior.php:151
+msgid "Trigger live search"
+msgstr "راه اندازی جستجوی زنده"
+
+#: backend/tabs/instance/general/behavior.php:117
+msgid "Action when clicking <strong>the magnifier</strong> icon"
+msgstr "عمل کلیک بر روی  نماد<strong> بزرگنمایی </strong>"
+
+#: backend/tabs/instance/layout/results_behaviour.php:3
+msgid "Open the results in a new window?"
+msgstr "نتایج را در یک پنجره جدید باز کند؟"
+
+#: backend/tabs/instance/advanced/exclude_results.php:27
+msgid "Exclude hidden catalog WooCommerce products from search?"
+msgstr "محصولات پنهان ووکامرس را از جستجو حذف کند؟"
+
+#: backend/tabs/instance/general/behavior.php:178
+msgid "Custom redirect URL"
+msgstr "URL تغییر سفارشی پس از ورود"
+
+#: backend/tabs/instance/general/sources.php:47
+msgid "Search in permalinks?"
+msgstr "درپیوند یکتا جستجو می کند؟"
+
+#: backend/tabs/instance/advanced/exclude_results.php:11
+msgid "Polylang compatibility"
+msgstr "سازگاری polylang"
+
+#: backend/tabs/instance/general/sources.php:12
+msgid "Try to replace the WooCommerce search with Ajax Search Lite form?"
+msgstr "سعی کنید جستجوی WooCommerce را با فرم Ajax Search Lite جایگزین کند؟"
+
+#: backend/tabs/instance/general/sources.php:68
+msgid "..or search in selected custom fields?"
+msgstr "… یا در زمینه های سفارشی انتخاب شده جستجو کنید؟"
+
+#: backend/tabs/instance/general/behavior.php:34
+msgid "Keyword (phrase) logic?"
+msgstr "کلمه کلیدی (عبارت) منطق؟"
+
+#: backend/tabs/instance/layout_options.php:5
+msgid "Keyword Highlighting"
+msgstr "برجسته سازی کلید واژه"
+
+#: backend/tabs/instance/layout/keyword_highlight.php:19
+msgid "Highlight whole words only?"
+msgstr "فقط کل کلمات را برجسته کند؟"
+
+#: backend/tabs/instance/layout/keyword_highlight.php:12
+msgid "Keyword highlighting"
+msgstr "برجسته سازی کلمه کلیدی"
+
+#: backend/tabs/instance/layout/box_layout.php:66
+msgid "Search box margin"
+msgstr "حاشیه جعبه جستجو"
+
+#: backend/tabs/instance/layout/box_layout.php:67
+msgid "Include the unit as well, example: 10px or 1em or 90%"
+msgstr "واحد را نیز وارد کنید ، به عنوان مثال: 10px یا 1em یا 90٪"
+
+#: backend/tabs/instance/layout/box_layout.php:40
+msgid "Search box width"
+msgstr "پهنای جعبه جستجو"
+
+#: backend/tabs/instance/general/sources.php:7
+#: backend/tabs/instance/general/sources.php:16
+msgid "Works with most themes, which use the searchform.php theme file to display their search forms."
+msgstr "با اکثر مضامین که از فایل قالب searchform.php برای نمایش فرم های جستجو استفاده می کنند ، کار می کند."
+
+#: backend/tabs/instance/general/sources.php:3
+msgid "Try to replace the theme search with Ajax Search Lite form?"
+msgstr "سعی کند جستجوی مضمون را با فرم Ajax Search Lite جایگزین کند؟"
+
+#: backend/tabs/instance/general/behavior.php:199
+msgid "Might not work with some Themes."
+msgstr "ممکن است با برخی از مضامین کار نکنید."
+
+#: backend/tabs/instance/general/behavior.php:185
+msgid "Override the default WordPress search results?"
+msgstr "نتایج جستجوی پیش فرض وردپرس را نادیده بگیرید؟"
+
+#: backend/tabs/instance/general/behavior.php:83
+msgid "Will trigger a search when the user clicks on a checkbox on the front-end."
+msgstr "با کلیک کاربر بر روی کادر تأیید در قسمت جلویی ، جستجو شروع می شود."
+
+#: backend/tabs/instance/advanced/content.php:13
+msgid "Removing shortcode is usually much faster, especially if you have many of them within posts."
+msgstr "حذف کد کوتاه معمولاً بسیار سریعتر انجام می شود ، به خصوص اگر تعداد زیادی از آنها را در پست داشته باشید."
+
+#: backend/tabs/instance/advanced/content.php:3
+msgid "What to do with shortcodes in results content?"
+msgstr "چه چیزی را باید با کد کوتاه در محتوای نتایج انجام دهید؟"
+
+#. Author of the plugin
+msgid "Ernest Marcinko"
+msgstr "ارنست مارسینکو"
+
+#. Description of the plugin
+msgid "The lite version of the most powerful ajax powered search engine for WordPress."
+msgstr "نسخه ساده قدرتمندترین موتور جستجوی ajax برای وردپرس."
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "http://wp-dreams.com"
+msgstr "http://wp-dreams.com"
+
+#: includes/classes/cache/bfi_thumb.php:372
+msgid "Image negate failed."
+msgstr "نفی تصویر ناکام ماند."
+
+#: includes/classes/cache/bfi_thumb.php:355
+msgid "Image grayscale failed."
+msgstr "گرادیانت تصویر شکست خورد."
+
+#: includes/classes/cache/bfi_thumb.php:338
+msgid "Image color change failed."
+msgstr "تغییر رنگ تصویر شکست خورد."
+
+#: includes/classes/cache/bfi_thumb.php:251
+msgid "Image opacity change failed."
+msgstr "تغییر ناموفق شفافیت تصویر"
+
+#: includes/classes/cache/bfi_thumb.php:228
+msgid "Image rotate failed."
+msgstr "چرخش تصویر انجام نشد."
+
+#: backend/performance_options.php:53
+msgid "Performance Options"
+msgstr "گزینه های عملکرد"
+
+#. Plugin Name of the plugin
+msgid "Ajax Search Lite"
+msgstr "Ajax Search Lite"
+
+#: backend/tabs/instance/layout_options.php:4
+#: backend/tabs/instance/layout_options.php:26
+msgid "Results Behaviour"
+msgstr "نتایج رفتار"
+
+#: backend/tabs/instance/layout_options.php:3
+#: backend/tabs/instance/layout_options.php:14
+msgid "Results layout"
+msgstr "طرح بندی نتایج"
+
+#: backend/tabs/instance/layout/results_layout.php:160
+msgid "Description length"
+msgstr "طول توضیحات"
+
+#: backend/tabs/instance/layout/results_layout.php:138
+msgid "Show description in results?"
+msgstr "در حالت عادی توضیحات نمایش داده شود"
+
+#: backend/tabs/instance/layout/results_layout.php:111
+msgid "Show date in results?"
+msgstr "آيا تاريخ در نتايج نمايش داده شود؟"
+
+#: backend/tabs/instance/layout/results_layout.php:105
+msgid "Show author in results?"
+msgstr "آيا نويسنده در نتايج نمايش داده شود؟"
+
+#: backend/tabs/instance/layout/results_layout.php:99
+msgid "' Show more results..' text"
+msgstr "متن 'نمایش نتایج بیشتر ..'"
+
+#: backend/tabs/instance/layout/results_layout.php:93
+msgid "Show 'More results..' text in the bottom of the search box?"
+msgstr "نمایش متن «نتایج بیشتر» در پایین جعبه جستجو نمایش داده می شود؟"
+
+#: backend/tabs/instance/layout/box_layout.php:34
+msgid "Placeholder text"
+msgstr "متن نگهدارنده"
+
+#: backend/tabs/instance/layout/results_behaviour.php:36
+msgid "Did you mean text"
+msgstr "آيا منظورم شما متن بود"
+
+#: backend/tabs/instance/layout/results_behaviour.php:32
+msgid "No results text"
+msgstr "متن جستجوی یافت نشده"
+
+#: backend/tabs/instance/layout/results_behaviour.php:27
+msgid "Show the close icon?"
+msgstr "نمایش آیکون بستن؟"
+
+#: backend/tabs/instance/layout/results_behaviour.php:21
+msgid "Close result list on document click?"
+msgstr "لیست نتیجه با کلیک روی سند بسته شود؟"
+
+#: backend/tabs/instance/layout/results_behaviour.php:15
+msgid "Make the whole result area clickable?"
+msgstr "کل منطقه نتیجه را کلیک کنید؟"
+
+#: backend/tabs/instance/layout/results_behaviour.php:9
+msgid "Sroll the window to the result list?"
+msgstr "پنجره را به لیست نتایج پیمایش کنید؟"
+
+#: backend/tabs/instance/image_options.php:116
+msgid "Custom field containing the image"
+msgstr "زمینه سفارشی که حاوی تصویر است"
+
+#: backend/tabs/instance/image_options.php:88
+msgid "Default image url"
+msgstr "آدرس پیش فرض تصویر"
+
+#: backend/tabs/instance/image_options.php:79
+msgid "Alternative image source 4"
+msgstr "منبع تصویر جایگزین 4"
+
+#: backend/tabs/instance/image_options.php:70
+msgid "Alternative image source 3"
+msgstr "منبع تصویر جایگزین 3"
+
+#: backend/tabs/instance/image_options.php:61
+msgid "Alternative image source 2"
+msgstr "منبع تصویر جایگزین 2"
+
+#: backend/tabs/instance/image_options.php:52
+msgid "Alternative image source 1"
+msgstr "منبع تصویر جایگزین 1"
+
+#: backend/tabs/instance/image_options.php:43
+msgid "Primary image source"
+msgstr "منبع تصویر اولیه"
+
+#: backend/tabs/instance/image_options.php:3
+msgid "Show images in results?"
+msgstr "نمایش تصاویر در نتایج؟"
+
+#: backend/tabs/instance/general/sources.php:89
+msgid "Search in terms? (categories, tags)"
+msgstr "جستجو در شرایط? (دسته ها، برچسب ها)"
+
+#: backend/tabs/instance/general/behavior.php:12
+msgid "Show exact matches only?"
+msgstr "فقط نمایش دقیق مسابقات؟"
+
+#: backend/tabs/instance/general/sources.php:61
+msgid "Search all custom fields?"
+msgstr "جستجو در تمام زمینه های سفارشی؟"
+
+#: backend/tabs/instance/general/sources.php:40
+msgid "Search in post excerpts?"
+msgstr "جستجو در گزیدههای پست؟"
+
+#: backend/tabs/instance/general/sources.php:33
+msgid "Search in content?"
+msgstr "محتوای صفحه جستجو"
+
+#: backend/tabs/instance/general/sources.php:26
+msgid "Search in title?"
+msgstr "سبک برای جستجو عنوان صفحه را تنظیم کنید."
+
+#: backend/tabs/instance/general/sources.php:20
+msgid "Search in custom post types"
+msgstr "جستجو در انواع پست های سفارشی"
+
+#: backend/tabs/instance/layout/box_layout.php:25
+msgid "Theme"
+msgstr "پوسته"
+
+#: backend/tabs/instance/layout/results_layout.php:86
+msgid "Results box viewport (in item numbers)"
+msgstr "نمایش جعبه نتایج (در مورد شماره ها)"
+
+#: backend/tabs/instance/layout/results_layout.php:155
+msgid "Will display the description from around the search phrase, not from the beginning."
+msgstr "توضیحات را از اطراف عبارت جستجو، نه از ابتدا نشان می دهد."
+
+#: backend/tabs/instance/layout/results_layout.php:144
+msgid "Display the description context?"
+msgstr "متن توصیف را نمایش دهد؟"
+
+#: backend/tabs/instance/general/behavior.php:111
+msgid "Max. results"
+msgstr "حداکثر نتایج"
+
+#: backend/tabs/instance/general/behavior.php:104
+msgid "Minimal character count to trigger search"
+msgstr "تعداد کاراکترهای حداقل برای جستجوگر"
+
+#: backend/tabs/instance/general/behavior.php:87
+msgid "Trigger search when typing?"
+msgstr "هنگام تایپ جستجو را راه اندازی کنید؟"
+
+#: backend/tabs/instance/general/behavior.php:79
+msgid "Trigger search on facet change?"
+msgstr "جستجو در تغییر وجه تغییر می کند؟"
+
+#: backend/tabs/instance/general_options.php:58
+#: backend/tabs/instance/image_options.php:139
+#: backend/tabs/instance/layout_options.php:48
+msgid "Save options!"
+msgstr "ذخیره‌سازی تغییرات"
+
+#: backend/tabs/instance/frontend/category_filters.php:58
+msgid "Categories filter box header text"
+msgstr "دسته ها متن هدر جعبه فیلتر"
+
+#: backend/tabs/instance/frontend/category_filters.php:51
+msgid "Select which categories exclude"
+msgstr "دسته هایی را که مستثنی هستند انتخاب کنید"
+
+#: backend/tabs/instance/frontend/category_filters.php:47
+msgid "Show the uncategorised category?"
+msgstr "دسته دسته بندی نشده نمایش داده شود؟"
+
+#: backend/tabs/instance/frontend/category_filters.php:42
+msgid "Show the categories selectors?"
+msgstr "انتخاب کنندگان دسته ها نشان داده شود؟"
+
+#: backend/tabs/instance/frontend/category_filters.php:40
+msgid "Nor recommended if you have more than 500 categories! (the HTML output will get too big)"
+msgstr "اگر بیش از 500 دسته دارید توصیه نمی شود! (خروجی HTML خیلی بزرگ خواهد شد)"
+
+#: backend/tabs/instance/frontend/category_filters.php:35
+msgid "Show search in custom post types selectors"
+msgstr "نمایش جستجو در انتخاب نوع پست سفارشی"
+
+#: backend/tabs/instance/frontend/category_filters.php:29
+msgid "Show search in content selector?"
+msgstr "جستجو در انتخاب محتوا نشان داده شود؟"
+
+#: backend/tabs/instance/frontend/category_filters.php:22
+msgid "Show search in title selector?"
+msgstr "جستجو در انتخابگر عنوان نشان داده شود؟"
+
+#: backend/tabs/instance/frontend/category_filters.php:14
+msgid "Show exact matches selector?"
+msgstr "انتخابگر دقیق اتصالات نشان داده شود؟"
+
+#: backend/tabs/instance/frontend/category_filters.php:10
+msgid "The default values of the checkboxes on the frontend are the values set above."
+msgstr "مقادیر پیش فرض کادرهای انتخاب در frontend مقادیر تنظیم شده در بالا هستند."
+
+#: backend/tabs/instance/frontend/category_filters.php:5
+msgid "Show search settings on the frontend?"
+msgstr "تنظیمات جستجو در جلو نمایش داده شود؟"
+
+#: backend/tabs/instance/advanced/exclude_results.php:5
+msgid "WPML compatibility"
+msgstr "سازگاری WPML"
+
+#: backend/tabs/instance/advanced/exclude_results.php:50
+msgid "Exclude Posts by ID's (comma separated post ID-s)"
+msgstr "حذف پست های شناسه (شناسه های پست جدا شده با کاما)"
+
+#: backend/tabs/instance/advanced/exclude_results.php:43
+msgid "Exclude categories"
+msgstr "دسته ها را حذف کنید"
+
+#: backend/tabs/instance/advanced/content.php:51
+msgid "Description Field"
+msgstr "قسمت توضیحات"
+
+#: backend/tabs/instance/advanced/content.php:26
+msgid "Title Field"
+msgstr "فیلد عنوان"
+
+#: backend/settings.php:158
+msgid "Advanced Options"
+msgstr "فعال کردن تنظیمات حرفه ای:"
+
+#: backend/settings.php:150
+msgid "Layout Options"
+msgstr "تنظیمات چیدمان"
+
+#: backend/settings.php:114
+msgid "Genearal Options"
+msgstr "تنظیمات عمومی"
+
+#: backend/settings.php:109
+msgid "Advanced"
+msgstr "عنوان سفارشی پیشرفته"
+
+#: backend/settings.php:108
+msgid "Layout options"
+msgstr "تنظیمات چیدمان"
+
+#: backend/settings.php:106 backend/settings.php:122
+msgid "Image Options"
+msgstr "آیکون/گزینه های تصویر"
+
+#: backend/settings.php:105
+msgid "General Options"
+msgstr "تنظیمات عمومی"
+
+#: backend/settings.php:95
+msgid "Search shortcode for templates:"
+msgstr "کد کوتاه جستجو برای قالب ها:"
+
+#: backend/settings.php:92
+msgid "Search shortcode:"
+msgstr "جستجوی کوتاه:"
+
+#: backend/analytics.php:120
+msgid "After some time you should be able to see the hits on your analytics board."
+msgstr "بعد از مدتی شما میبایست بازدیدی از هیئت تحریریه خود را مشاهده کنید."
+
+#: backend/analytics.php:313
+msgid "Analytics options"
+msgstr "گزینه های پیشرفته تجزیه و تحلیل:"
+
+#: backend/analytics.php:116
+msgid "This is how the pageview will look like on the google analytics website. Use the {asl_term} variable to add the search term to the pageview."
+msgstr "در وب سایت google analytics شکل ظاهری صفحه به این شکل است. از متغیر {asl_term} برای افزودن عبارت جستجو به نمای صفحه استفاده کنید."
+
+#: backend/analytics.php:114
+msgid "Google analytics pageview string"
+msgstr "رشته صفحه نمایش تجزیه و تحلیل گوگل"

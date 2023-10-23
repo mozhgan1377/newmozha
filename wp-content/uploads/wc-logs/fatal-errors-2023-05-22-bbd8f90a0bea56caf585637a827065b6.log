@@ -1,0 +1,14 @@
+2023-05-22T03:58:26+00:00 CRITICAL Out of memory (allocated 113246208) (tried to allocate 18878464 bytes) در C:\Users\paytakht\Desktop\xamp\htdocs\digkiala\wordpress\wp-includes\functions.php روی خط 4256
+
+2023-05-22T04:03:58+00:00 CRITICAL Out of memory (allocated 6291456) (tried to allocate 4096 bytes) در C:\Users\paytakht\Desktop\xamp\htdocs\digkiala\wordpress\wp-content\plugins\powerpack-elements\modules\categories\widgets\categories.php روی خط 2539
+
+2023-05-22T04:04:03+00:00 CRITICAL Out of memory (allocated 46137344) (tried to allocate 167936 bytes) در C:\Users\paytakht\Desktop\xamp\htdocs\digkiala\wordpress\wp-includes\class-wpdb.php روی خط 2431
+
+2023-05-22T04:06:56+00:00 CRITICAL Out of memory (allocated 8388608) (tried to allocate 32768 bytes) در C:\Users\paytakht\Desktop\xamp\htdocs\digkiala\wordpress\wp-content\plugins\woocommerce\includes\rest-api\Controllers\Version2\class-wc-rest-report-sales-v2-controller.php روی خط 1
+
+2023-05-22T04:07:01+00:00 CRITICAL Out of memory (allocated 8388608) (tried to allocate 20480 bytes) در C:\Users\paytakht\Desktop\xamp\htdocs\digkiala\wordpress\wp-content\plugins\woocommerce\includes\rest-api\Controllers\Version1\class-wc-rest-customers-v1-controller.php روی خط 119
+
+2023-05-22T04:07:01+00:00 CRITICAL Out of memory (allocated 10485760) (tried to allocate 4096 bytes) در C:\Users\paytakht\Desktop\xamp\htdocs\digkiala\wordpress\wp-includes\rest-api\endpoints\class-wp-rest-posts-controller.php روی خط 2414
+
+2023-05-22T05:18:08+00:00 CRITICAL Out of memory (allocated 52428800) (tried to allocate 491520 bytes) در C:\Users\paytakht\Desktop\xamp\htdocs\digkiala\wordpress\wp-includes\pomo\streams.php روی خط 229
+

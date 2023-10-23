@@ -1,0 +1,4 @@
+2023-05-23T21:16:32+00:00 CRITICAL Out of memory (allocated 27262976) (tried to allocate 114688 bytes) در C:\Users\paytakht\Desktop\xamp\htdocs\digkiala\wordpress\wp-content\themes\astra\inc\compatibility\woocommerce\class-astra-woocommerce.php روی خط 2415
+
+2023-05-23T22:35:49+00:00 CRITICAL Out of memory (allocated 50331648) (tried to allocate 9837376 bytes) در C:\Users\paytakht\Desktop\xamp\htdocs\digkiala\wordpress\wp-content\plugins\elementor\core\common\modules\ajax\module.php روی خط 269
+
